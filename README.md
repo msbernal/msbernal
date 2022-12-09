@@ -13,14 +13,14 @@ I am an Industrial Engineer with a Diploma in IT 🎓 from Pontificia Universida
 
 ---
 
-### Talking about Personal Stuffs:
+### Talking about personal stuffs:
 
 - 🚀 &nbsp; I’m currently building data science projects and doing courses in related topics.
 - 👨‍🎓 &nbsp; I graduated highschool at 15. When I was a 7 yrs old I was diagnosed as a highly-gifted person with 153 IQ.
 - 👾 &nbsp; I used to compete in math olympiads and chess championships, qualifying to 3 world championships.
 - 👨‍🏫 &nbsp; I have worked teaching chess at schools (elementary, middle and highschool) for almost 3 years.
 
-### And here are some of the projects I have worked with
+### And talking about some of the projects I have worked with:
 
 - 🍕 &nbsp; Grocerie Shopping pattern analysis *(Análisis de patrones de compra en comestibles)*
   - What you will find:
