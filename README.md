@@ -22,7 +22,7 @@ I am an Industrial Engineer with a Diploma in IT 🎓 from Pontificia Universida
 
 ### And talking about some of the projects I have worked with:
 
-- 🍕 &nbsp; Grocerie Shopping pattern analysis *(Análisis de patrones de compra en comestibles)*
+- 🍕 &nbsp; [Grocerie Shopping pattern analysis *(Análisis de patrones de compra en comestibles)*](https://github.com/msbernal/groceries_analysis)
   - What you will find:
     1. EDA and data pre-processing using Python.
     2. Stationarity and Tendencies analysis using Time Series Analysis with Python. 
