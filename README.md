@@ -27,7 +27,7 @@ I am an Industrial Engineer with a Diploma in IT 🎓 from Pontificia Universida
     1. EDA and data pre-processing using Python.
     2. Stationarity and Tendencies analysis using Time Series Analysis with Python. 
     3. Market Basket Analysis using Apriori Algorithm in R.
-- 💻 &nbsp; Elon Musk's Twitter purchase Sentiment Analysis *(Análisis de sentimientos sobre la compra de Twitter por parte de Elon Musk)*
+- 💻 &nbsp; [Elon Musk's Twitter purchase Sentiment Analysis *(Análisis de sentimientos sobre la compra de Twitter por parte de Elon Musk)*](https://github.com/msbernal/twitter_purchase_analysis)
   - What you will find:
     1. Data extraction using Twitter API 2.0 and Tweepy for Python.
     2. Sentiment Analysis using NLTK.  
